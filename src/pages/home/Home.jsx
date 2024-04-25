@@ -6,8 +6,6 @@ import Banner from "../../components/Banner/Banner";
 import FeaturedSites from "../../components/FeaturedSites/FeaturedSites";
 import "./home.css";
 
-
-
 const Home = () => {
   return (
     <div>
@@ -23,7 +21,6 @@ const Home = () => {
         <FeaturedSites/> 
         <Footer/>
       </div> 
-      
     </div>
   );
 };
